@@ -12,7 +12,7 @@ Usamos teste exploratório para investigar os fluxos e análise de valor-limite 
 
 O relatório reúne os cinco itens da atividade: técnicas, artefatos, execução, defeitos e aprendizados. Apresenta 27 casos de valor-limite com resultado conclusivo (25 passaram e 2 falharam), os registros exploratórios e sete cenários complementares (cinco passaram e dois falharam). São 11 defeitos registrados, incluindo perda de dados entre abas e validação tardia de links. Os números descrevem os cenários documentados, sem representar cobertura integral da aplicação.
 
-Os [prints das evidências](entrega/evidencias/) também estão disponíveis separadamente. Os registros apresentam o comportamento da versão testada; o código da aplicação foi preservado nesta entrega.
+Os [prints das evidências](entrega/evidencias/) também estão disponíveis separadamente. Os registros apresentam o comportamento da versão testada. Após a rodada de testes, a seção auxiliar Documentação foi retirada da interface; os resultados e as evidências estão reunidos no PDF.
 
 ## Como usar
 
